@@ -1,4 +1,4 @@
-# 🛡️ LexixCore Ads Blocker
+# 🛡️ Ads Blocker
 
 **LexixCore Ads Blocker** is a premium, next-generation Chrome extension that aggressively blocks YouTube ads and general tracking domains at the network level. Built with Manifest V3 compatibility, it offers lightning-fast performance, maximum privacy, and absolute uninterrupted viewing similar to native browser blockers like Brave.
 
